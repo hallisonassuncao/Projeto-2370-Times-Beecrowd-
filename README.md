@@ -1,6 +1,7 @@
 # Beecrowd 2370 - Times
 
 ✅ Status: Accepted (Python 3.11)
+🔗 Fonte do enunciado: [beecrowd.com.br/judge/pt/problems/view/2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370)
 
 As aulas de educação física, em muitas escolas, acontecem da seguinte maneira: O professor entrega uma bola ao alunos (geralmente de futebol) e estes se dividem em times, onde jogam partidas alternadamente.
 
